@@ -1,7 +1,7 @@
 React 공부중  
 참고할 만한 링크들  
 일반적으로 React는 JavaScript를 아는 사람을 기준으로 만들어짐.  
-JavaScript 모르면 이것부터 공부.
+JavaScript 모르면 JavaScript부터 공부.
 
 <table>
     <tr>
